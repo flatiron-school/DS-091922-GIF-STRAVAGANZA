@@ -63,6 +63,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Juan
 
+![cuphead image](https://media.giphy.com/media/2bHpKa0H1EtPWPbmDk/giphy.gif)
 
 ### Ziyuan
 
