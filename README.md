@@ -19,6 +19,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Daniel
 
+![Sponge gif excited from giphy](https://media.giphy.com/media/oF5oUYTOhvFnO/giphy.gif)
 
 ### Andrew
 
