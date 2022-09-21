@@ -41,7 +41,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Dermot
 
-
+![Maura Rose from Schitt's Creek giving herself confidence](https://media.giphy.com/media/26gs78HRO8sOuhTkQ/giphy-downsized.gif)
 
 ### Edward
 
