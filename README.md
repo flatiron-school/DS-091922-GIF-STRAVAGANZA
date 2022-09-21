@@ -24,7 +24,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Holly
-
+!["gif from Ghost in the Shell"](https://media.giphy.com/media/fsoCk5kgOcYMM/giphy-downsized-large.gif)
 
 ### Anita
 
