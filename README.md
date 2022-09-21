@@ -24,7 +24,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Holly
-!["gif from Ghost in the Shell"](https://media.giphy.com/media/fsoCk5kgOcYMM/giphy-downsized.gif)
+!["gif from Ghost in the Shell of an android's hand splitting into mulitiple smaller fingers over a keyboard, then typing rapidly"](https://media.giphy.com/media/9CffOPMLx0Hf2/giphy.gif)
 
 ### Anita
 
