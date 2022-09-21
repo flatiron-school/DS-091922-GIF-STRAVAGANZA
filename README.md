@@ -57,7 +57,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Drew
 
-
+![Snow white guzzling coffee directly from a spigot](https://media.giphy.com/media/3oriO04qxVReM5rJEA/giphy.gif)
 
 ### Eliot
 
