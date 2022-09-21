@@ -60,7 +60,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Eliot
 
-![mexican independence day](https://giphy.com/gifs/news-viva-mexico-mexican-independence-day-la-independencia-KisX6dzwyxsXsqFkSjfrom giphy)
+![mexican independence day](https://giphy.com/gifs/news-viva-mexico-mexican-independence-day-la-independencia-KisX6dzwyxsXsqFkSj)
 
 
 ### Juan
