@@ -23,6 +23,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Andrew
 
+![Steve Brule mind blown from giphy](https://media.giphy.com/media/3OSo3PPaXdw0U/giphy.gif)
 
 ### Holly
 
