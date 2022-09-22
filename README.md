@@ -26,7 +26,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ![Steve Brule mind blown from giphy](https://media.giphy.com/media/3OSo3PPaXdw0U/giphy.gif)
 
 ### Holly
-
+!["gif from Ghost in the Shell of an android's hand splitting into mulitiple smaller fingers over a keyboard, then typing rapidly"](https://media.giphy.com/media/9CffOPMLx0Hf2/giphy.gif)
 
 ### Anita
 
