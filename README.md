@@ -34,7 +34,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Samuel
 
-
+![It's a dancing soldier](https://media.giphy.com/media/8tss9dzMWqNUhEEAwA/giphy.gif)
 
 ### Stefano
 
